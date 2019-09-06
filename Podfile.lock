@@ -1,0 +1,38 @@
+PODS:
+  - Kingfisher (5.7.1)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - SnapKit (5.0.1)
+  - URLNavigator (2.2.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - RxCocoa
+  - RxSwift
+  - SnapKit
+  - URLNavigator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - URLNavigator
+
+SPEC CHECKSUMS:
+  Kingfisher: 176d377ad339113c99ad4980cbae687f807e20fe
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  URLNavigator: 0bffc3efdeb2d97f7b5eec7ac82d290f4a099431
+
+PODFILE CHECKSUM: 4be10301114d016098091211836fa240daef63f3
+
+COCOAPODS: 1.6.1
